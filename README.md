@@ -1,4 +1,8 @@
 # imatinol.github.io
-My resume website
+My resume website.
 
-You can start browsing the website by opening the index.html.
+I created this project to enhance my web development skills.
+
+You can start browsing the website by opening the index.html or just go to https://imatinol.github.io/
+
+!PLEASE NOTE THAT THE PROJECT IS UNFINISHED!
